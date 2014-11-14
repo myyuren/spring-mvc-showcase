@@ -191,6 +191,12 @@
 			<version>1.3</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.linda</groupId>
+			<artifactId>framework-rpc</artifactId>
+			<version>0.1.1</version>
+		</dependency>
 	</dependencies>
 	<repositories>
 		<!-- For testing against latest Spring snapshots -->
